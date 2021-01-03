@@ -1,4 +1,5 @@
-# django-snacks
+## django-snacks
+#### Lab 26:
 
 + Feature Tasks and Requirements
 
@@ -7,12 +8,9 @@ Create web site in Django with 2 pages
  + about page
 
 
-[Repository Link]()
+[Repository Link](https://github.com/hadeelhhawajreh/django-snacks)
 
-Live [URL]()
+Live [URL](https://github.com/hadeelhhawajreh/django-snacks)
 
-## Lab 17:
-## Feature Tasks and Requirements
-Scrape a Wikipedia page and record which passages need citations.
 ## Implementation:
 
